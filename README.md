@@ -1,5 +1,4 @@
 # Python_PracticeProjects
-(All have passed test)
 
 ## This project is for learning functions and OOP in Python by practicing small projects.
 
